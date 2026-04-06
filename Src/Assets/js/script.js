@@ -22,7 +22,7 @@ function cadastrar() {
         return;
     }
 
-  if (nome && categoria && ano && quantidade) {
+    if (nome && categoria && ano && quantidade) {
     alert("Cadastro realizado!");
     console.log(`Nome: ${nome}`);
     console.log(`Tipo: ${categoria}`);

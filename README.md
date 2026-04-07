@@ -1,7 +1,7 @@
 # 🍷 Vinharia Agnello - CP1
 >Integrantes: João Pedro, Arthur Germano, Bruno Araújo
 ## 📌 Sobre o Projeto
-Este repositório contém 
+Este repositório contém site que resolve o problema identificado pela vinharia fíctica
 
 ---
 
